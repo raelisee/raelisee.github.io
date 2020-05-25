@@ -1,11 +1,11 @@
 # Site settings
-author: Rae Emard
-title: 
+author: Rae Emard 
+title: (Zen)trepreneur 
 header-img: img/home-bg.png
 email: raeliseemard@gmail.com
-copyright_name: Rae Emard
+copyright_name: Rae Emard 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  tranistioning to a technical founder without loosing my mind 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  raelisee
